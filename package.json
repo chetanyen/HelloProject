@@ -1,0 +1,19 @@
+{
+  "name": "helloproject",
+  "version": "1.0.0",
+  "description": "firsproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chetanyen/HelloProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetanyen/HelloProject/issues"
+  },
+  "homepage": "https://github.com/chetanyen/HelloProject#readme"
+}
